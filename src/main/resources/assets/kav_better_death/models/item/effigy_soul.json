@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "kav_better_death:item/effigy_soul"
+  }
+}
